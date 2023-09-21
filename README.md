@@ -23,5 +23,5 @@ Note: Ensure that the required libraries are installed before running the applic
 
 This project is a valuable tool for automating attendance tracking in various settings, such as classrooms, meetings, or events, making it more efficient and accurate compared to manual methods. The confidence function adds an extra layer of reliability by considering only high-confidence matches for attendance recordin.
 
-you can download the video file called FR Video and see the implementation
+### you can download the video file called FR Video and see the implementation
 
